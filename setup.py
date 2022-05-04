@@ -8,7 +8,7 @@ setuptools.setup(
   author='parktaemin'
   author_email='xoals73771@gmail.com'
   url="https://github.com/Fromis999/PyPI/"
-  download_url="https://github.com/Fromis999/PyPI/releases/tag/v1.0.0.zip",
+  download_url="https://github.com/Fromis999/PyPI/archive/refs/tags/v1.0.0.zip",
   install_requires=['pytest']
   long_description_content_type='text/markdown',
   classifiers=[
